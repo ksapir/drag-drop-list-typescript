@@ -15,5 +15,13 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksapir/drag-drop-list-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ksapir/drag-drop-list-typescript/issues"
+  },
+  "homepage": "https://github.com/ksapir/drag-drop-list-typescript#readme"
 }
